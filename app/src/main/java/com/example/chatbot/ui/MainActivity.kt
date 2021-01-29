@@ -1,4 +1,4 @@
-package com.example.chatbot
+package com.example.chatbot.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
